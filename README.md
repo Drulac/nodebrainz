@@ -52,7 +52,7 @@ nb.releaseGroup('df46f245-7f62-4982-9d2c-e83d7be91cbf', function(err, response){
 
 There are different subqueries you can include depending on the entities.
 
-- **Arists** - `recordings`, `releases`, `release-groups`, `works`
+- **Artists** - `recordings`, `releases`, `release-groups`, `works`
 - **Label** - `releases`
 - **Recording** - `artists`, `releases`
 - **Release** - `artists`, `labels`, `recordings`, `release-groups`
